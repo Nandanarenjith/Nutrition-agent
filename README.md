@@ -10,3 +10,6 @@ Architecture : React
 Model :  Granite-3-3-7b-instruct large language model
 Deployment : IBM cloud 
 Assosiatives : Watson runtime
+
+# Link to the vedio of agent 
+https://amritauniv-my.sharepoint.com/:v:/g/personal/am_sc_u4cse23056_am_students_amrita_edu/EcVbUMkmrg5DvG2hwUUQAUUBN5cIB59dbsJHgDzL7EKQ1g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uBLyh2
